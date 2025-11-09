@@ -1,0 +1,4 @@
+1;2025-12-24;12:00;64118761686;lola;mendez;12345;mario;martinez;2;cardiologia;PROGRAMADA
+2;8985-01-31;20:30;4686416;milo;cardona;6864465;elena ;torres ;2;cardiologia;CANCELADA
+3;2025-12-02;13:30;887687678687;sara;Peña;898551665;juanes ;parra ;1;prueba;PROGRAMADA
+4;2025-12-12;12:55;887687678687;sara;Peña;89563274;wilmar ;restrepo;5;medico general;CANCELADA

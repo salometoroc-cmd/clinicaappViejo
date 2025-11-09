@@ -1,0 +1,5 @@
+12345;mario;martinez;tines@g,ail.com;3123456;2;cardiologia
+898551665;juanes ;parra ;parra@hotmail.com;875566554656;1;prueba
+89563274;wilmar ;restrepo;willres@udea.edu.co;87412356;5;medico general
+8785454544;;;;;4;nutricionista
+988754545454;skjdjalsk;;;;5;medico general

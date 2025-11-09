@@ -1,0 +1,8 @@
+1;cirujano;
+1;prueba;prueba
+2;cardiologia;cardiologia
+3;odontología;
+4;nutricionista;nutricionista
+5;medico general;remite pacientes
+6;++++;124556
+7;5;**********************************
